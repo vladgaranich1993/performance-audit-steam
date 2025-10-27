@@ -21,4 +21,4 @@ Each section documents problems, root causes, and proposed solutions with expect
 ---
 
 📄 **Full Report (PDF):**  
-👉 [Download or view the Steam Store Performance Audit](./Steam_Performance_Audit.pdf)
+👉 [Download or view the Steam Store Performance Audit](./Performance_Audit_Vlad_Haranich.pdf)
