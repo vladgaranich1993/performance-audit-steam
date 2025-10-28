@@ -1,7 +1,7 @@
 # Steam Store Performance Audit
 
 **Author:** Vlad Haranich  
-**Page audited:** [https://store.steampowered.com/category/racing](https://web.archive.org/web/20251027102626/https://store.steampowered.com/category/racing)
+**Page audited:** [https://store.steampowered.com/category/racing](https://web.archive.org/web/20251027102626/https://store.steampowered.com/category/racing)  
 **Focus:** Frontend performance audit — asset optimization, render-blocking analysis, and layout stability improvements.
 
 ---
